@@ -96,7 +96,7 @@ section{
     position: relative;
     width: 100%;
     height: 100vh;
-    background: url('images/');
+    background: url('images/bimg.jpeg');
     background-size: cover;
     background-position: center;
     display: grid;
@@ -245,7 +245,7 @@ section{
       position: relative;
       width: 100%;
       height: 100vh;
-      background: url('images/');
+      background: url('images/bimg.jpeg');
       background-size: cover;
       background-position: center;
       display: grid;
@@ -257,7 +257,7 @@ section{
 
 
     #home{
-      background: url('images/');
+      background: url('images/bimg.jpeg');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
